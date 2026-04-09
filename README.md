@@ -115,6 +115,6 @@ Never commit your API key to GitHub. Use environment variables or a secrets mana
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes.
