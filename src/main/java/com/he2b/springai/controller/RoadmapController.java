@@ -1,6 +1,6 @@
-package com.he2b.spring_ai.controller;
+package com.he2b.springai.controller;
 
-import com.he2b.spring_ai.service.RoadmapService;
+import com.he2b.springai.service.RoadmapService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
