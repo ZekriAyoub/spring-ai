@@ -1,4 +1,4 @@
-package com.he2b.spring_ai.service;
+package com.he2b.springai.service;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Service;
