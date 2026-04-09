@@ -1,4 +1,4 @@
-package com.he2b.spring_ai;
+package com.he2b.springai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
